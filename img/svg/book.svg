@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="117.731mm" height="169.069mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8820 12666"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#3D3D47}
+    .fil0 {fill:#44444F}
+    .fil1 {fill:#65E496}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2376270509280">
+   <path class="fil0" d="M99 0l8622 0c54,0 99,44 99,99l0 12468c0,54 -45,99 -99,99l-8622 0c-55,0 -99,-45 -99,-99l0 -12468c0,-55 44,-99 99,-99l0 0z" data-name="book"/>
+   <path id="Rectangle_10_copy" class="fil1" d="M7454 10625l1366 -1366 0 1724 -504 504c-115,114 -270,178 -431,178 -337,0 -610,-273 -610,-609 0,-162 65,-317 179,-431l0 0z" data-name="Rectangle 10 copy"/>
+   <path id="Rectangle_10_copy_2" class="fil1" d="M5852 9717l2968 -2967 0 1724 -2106 2105c-114,114 -269,178 -431,178 -336,0 -609,-273 -609,-609 0,-162 64,-317 178,-431l0 0z" data-name="Rectangle 10 copy 2"/>
+   <polygon class="fil2" points="0,12666 1243,12666 1243,0 0,0 "/>
+  </g>
+ </g>
+</svg>

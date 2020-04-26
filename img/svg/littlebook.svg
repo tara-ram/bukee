@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="71.0041mm" height="108.215mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5252 8004"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#3D3D47}
+    .fil0 {fill:#44444F}
+    .fil1 {fill:#65E496}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2376227266112">
+   <path class="fil0" d="M98 0l5067 0c38,0 70,21 87,52l0 7899c-17,32 -49,53 -87,53l-5067 0c-54,0 -98,-44 -98,-98l0 -7808c0,-54 44,-98 98,-98l0 0z"/>
+   <path id="Rectangle_11_copy_3" class="fil1" d="M4886 5757l366 -212 0 226 -268 155c-15,8 -32,13 -49,13 -54,0 -98,-44 -98,-98 0,-35 19,-67 49,-84l0 0z" data-name="Rectangle 11 copy 3"/>
+   <path id="Rectangle_11_copy_2" class="fil1" d="M4886 5228l366 -211 0 226 -268 155c-15,8 -32,12 -49,12 -54,0 -98,-43 -98,-97 0,-35 19,-67 49,-85l0 0z" data-name="Rectangle 11 copy 2"/>
+   <polygon class="fil2" points="0,8004 742,8004 742,0 0,0 "/>
+  </g>
+ </g>
+</svg>
